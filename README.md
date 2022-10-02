@@ -6,4 +6,4 @@ Implementation of Binary Search Tree (BST)
 
 
 ## Main Look of the BST TREE Application.
-[](/Images/BST_1.png)
+![](/Images/BST_1.png)
